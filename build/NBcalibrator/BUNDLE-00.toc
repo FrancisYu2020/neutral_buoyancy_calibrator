@@ -1,0 +1,3 @@
+([('NBcalibrator',
+   '/Users/yuhan/Desktop/aida教学/nb_calibrator/src/dist/NBcalibrator',
+   'EXECUTABLE')],)
